@@ -2,6 +2,9 @@
 
 https://login-1553e.web.app/
 
+# TODO:
+- Rebuild for mobile browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
